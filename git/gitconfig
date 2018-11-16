@@ -1,0 +1,8 @@
+[user]
+	name = mlr46
+	email = mlr46@users.noreply.github.com
+
+[push]
+	# only pushes the current branch to the corresponding
+	# remote branch that 'git pull' uses to update the current branch.
+	default = simple
