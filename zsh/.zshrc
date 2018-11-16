@@ -99,3 +99,5 @@ source $ZSH/oh-my-zsh.sh
 
 # Make ls pretty
 export LSCOLORS=gxfxcxdxbxegedabagacad
+export CLICOLOR=1
+alias ls="ls -a"
